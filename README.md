@@ -4,10 +4,12 @@
 
 До скейлинга  
 
-  <img width="835" alt="Снимок экрана 2024-09-12 в 00 51 21" src="https://github.com/user-attachments/assets/e0e42ac9-9585-4610-8832-9898bde390ac">
+<img width="835" alt="Снимок экрана 2024-09-12 в 00 51 21" src="https://github.com/user-attachments/assets/e0e42ac9-9585-4610-8832-9898bde390ac">
+
 После  
 
 <img width="731" alt="Снимок экрана 2024-09-11 в 23 01 07" src="https://github.com/user-attachments/assets/59695f4a-385d-4b80-a017-0cacab35cc39">   
+
 файл service1.yaml  
 
 Скрин выполнения команды внутри пода  
